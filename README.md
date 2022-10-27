@@ -1,2 +1,2 @@
-#  soldaitswap token
+#  SoldaitSwap
 
