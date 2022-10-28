@@ -9,8 +9,7 @@ This project contains the main features of the Soldaitswap-Exchange application.
 
 ## Documentation
 
-- [Info](doc/Info.md)
-- [Cypress tests](doc/Cypress.md)
+- [Soon]()
 
 ## Quick Start
 
