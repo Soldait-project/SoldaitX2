@@ -32,7 +32,3 @@ yarn build
 # start the application after build
 yarn start
 ```
-
-
-- Token.
-- Exchange.
